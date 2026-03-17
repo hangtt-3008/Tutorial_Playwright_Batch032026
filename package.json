@@ -1,0 +1,28 @@
+{
+  "name": "tutorial_playwright_batch032026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.58.2",
+    "playwright-core": "^1.58.2",
+    "undici-types": "^7.18.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangtt-3008/Tutorial_Playwright_Batch032026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hangtt-3008/Tutorial_Playwright_Batch032026/issues"
+  },
+  "homepage": "https://github.com/hangtt-3008/Tutorial_Playwright_Batch032026#readme"
+}
